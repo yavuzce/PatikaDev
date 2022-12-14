@@ -26,7 +26,7 @@ public class PatikaDev {
 
 
         double sonuc=toplam;
-        System.out.println("sonuc = " + sonuc);
+        System.out.println("sonuc : " + sonuc);
 
     }
 
